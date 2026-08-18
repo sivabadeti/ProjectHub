@@ -21,9 +21,7 @@ function Profile() {
   const profileRef = useRef(null);
   const glowRef = useRef(null);
 
-  // Backend URL from Vite environment variable.
-  // Example: VITE_API_URL=http://localhost:5000
-  // Production: VITE_API_URL=https://your-backend-domain.com
+ 
   const API_URL = (import.meta.env.VITE_API_URL || "").replace(/\/$/, "");
   // =========================================================
   // MODERN SCROLL + POINTER ANIMATIONS
