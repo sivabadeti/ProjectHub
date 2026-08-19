@@ -24,31 +24,40 @@ https://projecthub-backend-phsx.onrender.com
 
 ## 🏠 Home Page
 
-![ProjectHub Home](./screenshots/home.png)
+![ProjectHub Home](./screenshots/Home.png)
 
 ## 🔐 Login
 
-![ProjectHub Login](./screenshots/login.png)
+![ProjectHub Login](./screenshots/login-req.png)
+![ProjectHub Login](./screenshots/loginmodel.png)
 
 ## 📝 Register
 
-![ProjectHub Register](./screenshots/register.png)
+![ProjectHub Register](./screenshots/registermodel.png)
 
 ## 💡 Projects
 
-![ProjectHub Projects](./screenshots/projects.png)
+![ProjectHub Projects](./screenshots/projectidea1.png)
+![ProjectHub Projects](./screenshots/projectideares.png)
+
 
 ## 📊 Datasets
 
-![ProjectHub Datasets](./screenshots/datasets.png)
+![ProjectHub Datasets](./screenshots/dataset.png)
+![ProjectHub Datasets](./screenshots/datasetres.png)
 
 ## 👥 Find Teammates
 
-![ProjectHub Teammates](./screenshots/teammates.png)
+![ProjectHub Teammates](./screenshots/findteams.png)
+![ProjectHub Teammates](./screenshots/findteams2.png)
 
 ## 👤 Profile
 
 ![ProjectHub Profile](./screenshots/profile.png)
+
+## ✏️ Edit Profile
+
+![ProjectHub Profile](./screenshots/editprofile.png)
 
 ---
 
